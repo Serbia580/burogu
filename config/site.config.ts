@@ -1,5 +1,5 @@
 const SITE_CONFIG = {
-	siteName: "IT迷的博客,
+	siteName: "IT迷的博客",
 	siteLanguage: "zh-Hans",
 	description: "IT迷的的个人博客，胡乱写些东西",
 	avatarPath: "/hyoban.png",
@@ -24,8 +24,8 @@ const SITE_CONFIG = {
 	},
 	siteUrl: "https://www.serbia70.com",
 	authorName: "IT迷",
-	authorLink: "https://hyoban.cc",
-	authorEmail: "hi@hyoban.cc",
+	authorLink: "https://www.serbia70.com",
+	authorEmail: "serbia1688@gmail.com",
 	timeZone: "Asia/Shanghai",
 	source: "local",
 } as const
