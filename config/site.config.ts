@@ -1,31 +1,31 @@
 const SITE_CONFIG = {
-	siteName: "IT迷的博客",
+	siteName: "Hyoban's Blog",
 	siteLanguage: "zh-Hans",
-	description: "IT迷的的个人博客，胡乱写些东西",
+	description: "Hyoban 的个人博客，胡乱写些东西",
 	avatarPath: "/hyoban.png",
 	faviconPath: "/favicon.svg",
 	links: [
 		{
 			type: "GitHub",
-			url: "https://github.com/serbia580",
+			url: "https://github.com/hyoban",
 		},
 		{
-			type: "电商陈",
-			url: "https://www.serbia70.com",
+			type: "Twitter",
+			url: "https://twitter.com/0xhyoban",
 		},
 		{
 			type: "Email",
-			url: "serbia1688@gmail.com",
+			url: "mailto:hi@hyoban.cc",
 		},
 	],
 	codeTheme: {
 		light: "github-light",
 		dark: "github-dark",
 	},
-	siteUrl: "https://www.serbia70.com",
-	authorName: "IT迷",
-	authorLink: "https://www.serbia70.com",
-	authorEmail: "serbia1688@gmail.com",
+	siteUrl: "https://hyoban.cc",
+	authorName: "Hyoban",
+	authorLink: "https://hyoban.cc",
+	authorEmail: "hi@hyoban.cc",
 	timeZone: "Asia/Shanghai",
 	source: "local",
 } as const
